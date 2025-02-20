@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Debbie Johnson
+## About Me
 
-<!--
-**Miz-Bl/Miz-Bl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏦 I'm currebtly studying at Wayne State College
 
-Here are some ideas to get you started:
+- 🤔 I use java and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 I really enjoy working with hands on projects and programming
+
+- 📫 How to reach me **miszig01@wsc.edu**
+
+
+### Education
+
+- Working on a B.A in Engineering Technology with a minor in comnputer sciences
