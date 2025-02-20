@@ -1,7 +1,7 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, I'm Michael
 ## About Me
 
-- 🏦 I'm currebtly studying at Wayne State College
+- 🏦 I'm currently studying at Wayne State College
 
 - 🤔 I use java and C++
 
