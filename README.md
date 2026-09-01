@@ -7,9 +7,10 @@
 ## About Me
 
 
-- I have taken several courses in java, C++, Python, Data structures 
 
--  I really enjoy working with my hands on and projects involving programming
+- I am in my senior year of college looking to graduate in a year
+- I have taken several courses in java, C++, Python, Data structures 
+- I really enjoy working with my hands on and projects involving programming
 
 
 
